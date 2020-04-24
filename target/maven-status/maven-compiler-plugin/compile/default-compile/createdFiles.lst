@@ -1,0 +1,5 @@
+com\sample\customer\service\CustomerService.class
+com\sample\customer\TestJpaServiceApplication.class
+com\sample\customer\controller\CustomerController.class
+com\sample\customer\repository\CustomerRepository.class
+com\sample\customer\entity\Customer.class
